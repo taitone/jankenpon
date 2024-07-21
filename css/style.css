@@ -55,3 +55,30 @@ h1 {
 .tarao-serihu button {
     margin: 20px 100px;
 }
+
+@media (max-width: 500px) {
+    main {
+        margin-bottom: 370px;
+    }
+
+    .flex {
+        display: block;
+    }
+
+    .tarao {
+        text-align: center;
+    }
+
+    .w-50p {
+        width: 100%;
+        text-align: center;
+    }
+
+    .option {
+        padding-left: 0px;
+    }
+
+    .flex2 {
+        justify-content: center;
+    }
+}
