@@ -1,0 +1,57 @@
+p {
+    margin: 0px;
+}
+
+header {
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+}
+
+.w-50p {
+    width: 50%;
+}
+
+.w-20p {
+    width: 20%;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+}
+
+.flex2 {
+    display: flex;
+}
+
+.flex2 img {
+    width: 30%;
+}
+
+.top {
+    width: 100%;
+    height: 600px;
+}
+
+.under {
+    width: 100%;
+}
+
+.tarao {
+    text-align: right;
+}
+
+.tarao-serihu {
+    padding-top: 14%;
+}
+
+.option {
+    padding-left: 30px;
+}
+
+.tarao-serihu button {
+    margin: 20px 100px;
+}
